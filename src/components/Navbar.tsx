@@ -42,6 +42,5 @@ export const Navbar = () => {
             </Button>
             </Container>
             </NavbarBs>
-     
 
 )}
